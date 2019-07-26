@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow&display=swap');
+
 @import "bootstrap";
     .clear {
        clear: both;
@@ -35,6 +37,8 @@
         color: black;
         font-size: 25px;
         border-bottom: 1px solid #dfdfdf;
+        font-family: "PT+Sans+Narrow&display=swap", sans-serif;
+        font-weight: bold;
     }
     header {
         border-top: 9px solid #222222;
@@ -43,4 +47,13 @@
         clear:both;
     }
     
+    h1 {
+        font-family: "PT+Sans+Narrow&display=swap", sans-serif;
+        font-weight: bold;
+        font-size: 48px;
+    }
+    
+    h2 {
+         font-family: "PT+Sans+Narrow&display=swap", sans-serif;
+    }
 
