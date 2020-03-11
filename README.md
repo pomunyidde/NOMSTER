@@ -1,24 +1,18 @@
-# README
+# NOMSTER
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Nomster**  
+*A Yelp clone that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication. This app enables business owners advertise by creating a venue, address and give a brief description about their business. 
 
-Things you may want to cover:
+## VIEWS
+*Nomster app has homepage (the root of the application). The user will see this page first and it will show all the places on the page. The homepage also will show the last comment for this place. If you click any place it will show a map, photo and description about the place.
 
-* Ruby version
+## TOOLS USED: 
+*Ruby on Rails, Postgresql, HTML5, CSS3, Bootstrap, Geocoder, Carrierwave, ActionMailer, SendGrind, jQuery, Devise. 
 
-* System dependencies
+[NOMSTER](https://nomster-peter-omunyidde.herokuapp.com/)
 
-* Configuration
+### CONTACT
 
-* Database creation
+[WEBSITE](https://omunyidde-p.netlify.com)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[LinkedIn](https://www.linkedin.com/in/peter-omunyidde/)
