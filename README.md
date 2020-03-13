@@ -12,7 +12,7 @@
 
 **VENUES**
 
-![](/images.Screenshot2.png)
+![](/images/Screenshot2.png)
 
 **VENUE MAP**
 
